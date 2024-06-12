@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "241697020873",
+    "firebase_url": "https://hatoms-main-project-default-rtdb.firebaseio.com",
+    "project_id": "hatoms-main-project",
+    "storage_bucket": "hatoms-main-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241697020873:android:f4a6f233d908624167a618",
+        "android_client_info": {
+          "package_name": "com.example.main_screen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJOcLhPgdZSRKGwJsXXtXyCId0HSTjU3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
